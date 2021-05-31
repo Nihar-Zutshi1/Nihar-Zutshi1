@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Nihar-Zutshi1
+// 👋 Hi, I’m @Nihar-Zutshi1
+
+
+/// I'm a CS Student, and Developer!!
+
 - 👀 I’m interested in computer hardware
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on the project and get knowlege.
