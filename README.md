@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on the project and get knowlege.
 - 📫 How to reach me nikhilzutshi12@gmail.com
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.idNihar-Zutshi1)
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.idNihar-Zutshi1)
 
 Languages and Tools:
 
