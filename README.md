@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Nihar-Zutshi1
+## Hey, I’m Nihar Zutshi 👋
 
 
 ### I'm a CS Student, and Developer!!
