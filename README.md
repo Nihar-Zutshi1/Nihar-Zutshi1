@@ -23,7 +23,7 @@
 - 💞️ I’m looking to collaborate on the project and get knowlege.
 - 📫 How to reach me nikhilzutshi12@gmail.com
   </div>
-- !(https://visitor-badge.laobi.icu/badge?page_id=page.idNihar-Zutshi1)
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.idNihar-Zutshi1)
 
 <div align="center")>
 
