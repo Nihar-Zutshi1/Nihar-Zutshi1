@@ -30,9 +30,6 @@
 ###                         Show some ❤️ by starring some of the repositories!
  
 </div>
-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.idNihar-Zutshi1)
-
-</div>
 </div>
 
 <!---
